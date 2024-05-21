@@ -1,0 +1,1828 @@
+{
+  "workspaces": {
+    "Outlining": {
+      "main": {
+        "id": "4242371ac6b7798b",
+        "type": "split",
+        "children": [
+          {
+            "id": "1bcbed0e297ad7be",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "87c4ef219004b60f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "1742cc1a0cd60f93",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "99 Misc/TOS - Overview.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "ed280abcc78e28dd",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "99 Misc/Royal Legacies Series Bible.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "b0fc93a571c4a5e3",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "99 Misc/TOS - Plot Kanban.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "aa0634bcdfbb04b3",
+        "type": "split",
+        "children": [
+          {
+            "id": "0d1a4685435ba440",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aa089e10a92c9dfb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "014c8da4b8b2418c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "To-Do",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "583134b1bb574857",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "200b779edb372085",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 339.5
+      },
+      "right": {
+        "id": "14e29d857f3399ad",
+        "type": "split",
+        "children": [
+          {
+            "id": "f6c27e94f357387e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a17bc3d040649359",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "99 Misc/TOS - Prologue.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3d94e1438c61ce88",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "99 Misc/TOS - Prologue.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "74967eea365e69a5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "979ace47081dd69a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "99 Misc/TOS - Outline.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "0fb1a68f31c0fe64",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "99 Misc/TOS - Prologue.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 315.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "calendarium:Open Calendarium": false,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-advanced-slides:Show Slide Preview": true,
+          "obsidian-day-planner:Timeline": true,
+          "homepage:Open homepage": true,
+          "obsidian-projects:Open projects": true,
+          "dbfolder:Create a new database table": true,
+          "fantasy-content-generator:Fantasy Generators": true,
+          "obsidian-5e-statblocks:Open Creature pane": true,
+          "obsidian-statusbar-pomo:Start pomodoro": true,
+          "workspaces:Manage workspace layouts": true,
+          "notion-like-tables:Create loom": false,
+          "rpg-manager:RPG Manager": false,
+          "obsidian-wordnet-plugin:WordNet Dictionary": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "wikipedia-search:Open Article": false,
+          "obsidian-word-sprint:Activate Word Sprint Leaf": false
+        }
+      },
+      "active": "0fb1a68f31c0fe64",
+      "mtime": "2024-05-13T01:26:00-07:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "99 Misc"
+        ]
+      }
+    },
+    "Writing": {
+      "main": {
+        "id": "4242371ac6b7798b",
+        "type": "split",
+        "children": [
+          {
+            "id": "1bcbed0e297ad7be",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "87c4ef219004b60f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "ed280abcc78e28dd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "99 Misc/Royal Legacies Series Bible.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "aa0634bcdfbb04b3",
+        "type": "split",
+        "children": [
+          {
+            "id": "0d1a4685435ba440",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aa089e10a92c9dfb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "014c8da4b8b2418c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "To-Do",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "583134b1bb574857",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "200b779edb372085",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 339.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "14e29d857f3399ad",
+        "type": "split",
+        "children": [
+          {
+            "id": "f6c27e94f357387e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a17bc3d040649359",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "99 Misc/TOS - Outline.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3d94e1438c61ce88",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "99 Misc/TOS - Outline.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "74967eea365e69a5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "979ace47081dd69a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "99 Misc/TOS - Outline.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "41d4e8cae94fbf58",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fd79731be05adbb0",
+                "type": "leaf",
+                "state": {
+                  "type": "CALENDARIUM"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 315.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "calendarium:Open Calendarium": false,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-advanced-slides:Show Slide Preview": true,
+          "obsidian-day-planner:Timeline": true,
+          "homepage:Open homepage": true,
+          "obsidian-projects:Open projects": true,
+          "dbfolder:Create a new database table": true,
+          "fantasy-content-generator:Fantasy Generators": true,
+          "obsidian-5e-statblocks:Open Creature pane": true,
+          "obsidian-statusbar-pomo:Start pomodoro": true,
+          "workspaces:Manage workspace layouts": true,
+          "notion-like-tables:Create loom": false,
+          "rpg-manager:RPG Manager": false,
+          "obsidian-wordnet-plugin:WordNet Dictionary": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "wikipedia-search:Open Article": false,
+          "obsidian-word-sprint:Activate Word Sprint Leaf": false
+        }
+      },
+      "active": "979ace47081dd69a",
+      "mtime": "2024-05-13T01:27:05-07:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "99 Misc"
+        ]
+      }
+    },
+    "Series Home": {
+      "main": {
+        "id": "4242371ac6b7798b",
+        "type": "split",
+        "children": [
+          {
+            "id": "1bcbed0e297ad7be",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "87c4ef219004b60f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "d3ad4b6de54be68c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "99 Misc/Royal Legacies Home.canvas",
+                    "viewState": {
+                      "x": 188.62132700978572,
+                      "y": 78.88503970526315,
+                      "zoom": -0.6023896153596374
+                    }
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "b096a802d5475484",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "99 Misc/TOS Master Canvas.canvas",
+                    "viewState": {
+                      "x": 500,
+                      "y": 90,
+                      "zoom": -3.612119915154306
+                    }
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "aa0634bcdfbb04b3",
+        "type": "split",
+        "children": [
+          {
+            "id": "0d1a4685435ba440",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aa089e10a92c9dfb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "014c8da4b8b2418c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "To-Do",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "583134b1bb574857",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "200b779edb372085",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 339.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "14e29d857f3399ad",
+        "type": "split",
+        "children": [
+          {
+            "id": "f6c27e94f357387e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a17bc3d040649359",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "99 Misc/TOS Master Canvas.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3d94e1438c61ce88",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "99 Misc/TOS Master Canvas.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "74967eea365e69a5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "fd79731be05adbb0",
+                "type": "leaf",
+                "state": {
+                  "type": "CALENDARIUM"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 315.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "calendarium:Open Calendarium": false,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-advanced-slides:Show Slide Preview": true,
+          "obsidian-day-planner:Timeline": true,
+          "homepage:Open homepage": true,
+          "obsidian-projects:Open projects": true,
+          "dbfolder:Create a new database table": true,
+          "fantasy-content-generator:Fantasy Generators": true,
+          "obsidian-5e-statblocks:Open Creature pane": true,
+          "obsidian-statusbar-pomo:Start pomodoro": true,
+          "workspaces:Manage workspace layouts": true,
+          "notion-like-tables:Create loom": false,
+          "rpg-manager:RPG Manager": false,
+          "obsidian-wordnet-plugin:WordNet Dictionary": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "wikipedia-search:Open Article": false,
+          "obsidian-word-sprint:Activate Word Sprint Leaf": false
+        }
+      },
+      "active": "b096a802d5475484",
+      "mtime": "2024-05-13T01:28:04-07:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "99 Misc"
+        ]
+      }
+    },
+    "Worldbuilding": {
+      "main": {
+        "id": "4242371ac6b7798b",
+        "type": "split",
+        "children": [
+          {
+            "id": "1bcbed0e297ad7be",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "87c4ef219004b60f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "5247560199c84de2",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "99 Misc/Royal Legacies - Worldbuilding Workbook V2.0.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "e4d61412b2be6ed6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Eldoria Timeline.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "aa0634bcdfbb04b3",
+        "type": "split",
+        "children": [
+          {
+            "id": "0d1a4685435ba440",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aa089e10a92c9dfb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "014c8da4b8b2418c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "To-Do",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "583134b1bb574857",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "200b779edb372085",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 339.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "14e29d857f3399ad",
+        "type": "split",
+        "children": [
+          {
+            "id": "f6c27e94f357387e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a17bc3d040649359",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Eldoria Timeline.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3d94e1438c61ce88",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Eldoria Timeline.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "74967eea365e69a5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "fd79731be05adbb0",
+                "type": "leaf",
+                "state": {
+                  "type": "CALENDARIUM"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 315.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "calendarium:Open Calendarium": false,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-advanced-slides:Show Slide Preview": true,
+          "obsidian-day-planner:Timeline": true,
+          "homepage:Open homepage": true,
+          "obsidian-projects:Open projects": true,
+          "dbfolder:Create a new database table": true,
+          "fantasy-content-generator:Fantasy Generators": true,
+          "obsidian-5e-statblocks:Open Creature pane": true,
+          "obsidian-statusbar-pomo:Start pomodoro": true,
+          "workspaces:Manage workspace layouts": true,
+          "notion-like-tables:Create loom": false,
+          "rpg-manager:RPG Manager": false,
+          "obsidian-wordnet-plugin:WordNet Dictionary": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "wikipedia-search:Open Article": false,
+          "obsidian-word-sprint:Activate Word Sprint Leaf": false
+        }
+      },
+      "active": "e4d61412b2be6ed6",
+      "mtime": "2024-05-13T01:37:08-07:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "99 Misc"
+        ]
+      }
+    },
+    "Wikipedia": {
+      "main": {
+        "id": "4242371ac6b7798b",
+        "type": "split",
+        "children": [
+          {
+            "id": "1bcbed0e297ad7be",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "87c4ef219004b60f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "aa0634bcdfbb04b3",
+        "type": "split",
+        "children": [
+          {
+            "id": "0d1a4685435ba440",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aa089e10a92c9dfb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "014c8da4b8b2418c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "To-Do",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "583134b1bb574857",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "200b779edb372085",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 339.5
+      },
+      "right": {
+        "id": "14e29d857f3399ad",
+        "type": "split",
+        "children": [
+          {
+            "id": "f6c27e94f357387e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a17bc3d040649359",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Home.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3d94e1438c61ce88",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Home.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "74967eea365e69a5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "fd79731be05adbb0",
+                "type": "leaf",
+                "state": {
+                  "type": "CALENDARIUM"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 315.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "calendarium:Open Calendarium": false,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-advanced-slides:Show Slide Preview": true,
+          "obsidian-day-planner:Timeline": true,
+          "homepage:Open homepage": true,
+          "obsidian-projects:Open projects": true,
+          "dbfolder:Create a new database table": true,
+          "fantasy-content-generator:Fantasy Generators": true,
+          "obsidian-5e-statblocks:Open Creature pane": true,
+          "obsidian-statusbar-pomo:Start pomodoro": true,
+          "workspaces:Manage workspace layouts": true,
+          "notion-like-tables:Create loom": false,
+          "rpg-manager:RPG Manager": false,
+          "obsidian-wordnet-plugin:WordNet Dictionary": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "wikipedia-search:Open Article": false,
+          "obsidian-word-sprint:Activate Word Sprint Leaf": false
+        }
+      },
+      "active": "87c4ef219004b60f",
+      "mtime": "2024-05-13T15:57:20-07:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Wikipedia_project"
+        ]
+      }
+    },
+    "Writing Dashboard": {
+      "main": {
+        "id": "4242371ac6b7798b",
+        "type": "split",
+        "children": [
+          {
+            "id": "1bcbed0e297ad7be",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "87c4ef219004b60f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "aa0634bcdfbb04b3",
+        "type": "split",
+        "children": [
+          {
+            "id": "0d1a4685435ba440",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aa089e10a92c9dfb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "014c8da4b8b2418c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "To-Do",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "583134b1bb574857",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "200b779edb372085",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "f16511d7915e4c21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6fb88b9399d02c4a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Home.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 339.5
+      },
+      "right": {
+        "id": "14e29d857f3399ad",
+        "type": "split",
+        "children": [
+          {
+            "id": "f6c27e94f357387e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a17bc3d040649359",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Home.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3d94e1438c61ce88",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Home.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "74967eea365e69a5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "8251dc7471120454",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "99 Misc/To-do.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f625bc281c3a13b0",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c4c4a85563d82296",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "eff140d82e434035",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 6
+          },
+          {
+            "id": "3517485777213a91",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4cf168ab9489a90d",
+                "type": "leaf",
+                "state": {
+                  "type": "CALENDARIUM"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 315.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "calendarium:Open Calendarium": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-advanced-slides:Show Slide Preview": true,
+          "obsidian-day-planner:Timeline": true,
+          "homepage:Open homepage": true,
+          "obsidian-projects:Open projects": true,
+          "dbfolder:Create a new database table": true,
+          "fantasy-content-generator:Fantasy Generators": true,
+          "obsidian-5e-statblocks:Open Creature pane": true,
+          "obsidian-statusbar-pomo:Start pomodoro": true,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "aa089e10a92c9dfb",
+      "mtime": "2024-05-13T01:20:29-07:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Tags"
+        ]
+      }
+    },
+    "Home": {
+      "main": {
+        "id": "4242371ac6b7798b",
+        "type": "split",
+        "children": [
+          {
+            "id": "d795fbddcf8a223b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "83111da3cd52a84f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00 Inbox/Home.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "5308ccb46cd0611d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "40 Archive/Databases/Books DB.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "aa0634bcdfbb04b3",
+        "type": "split",
+        "children": [
+          {
+            "id": "0d1a4685435ba440",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aa089e10a92c9dfb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "014c8da4b8b2418c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "research",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "583134b1bb574857",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "200b779edb372085",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d41bb546a033f37a",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "f16511d7915e4c21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6fb88b9399d02c4a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Agenda.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 339.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "14e29d857f3399ad",
+        "type": "split",
+        "children": [
+          {
+            "id": "f6c27e94f357387e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a17bc3d040649359",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Agenda.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3d94e1438c61ce88",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Agenda.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c4c4a85563d82296",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "eff140d82e434035",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6579eccc7220e2f0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Agenda.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "3517485777213a91",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f625bc281c3a13b0",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "74967eea365e69a5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 315.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "notion-like-tables:Create loom": false,
+          "rpg-manager:RPG Manager": false,
+          "obsidian-wordnet-plugin:WordNet Dictionary": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "wikipedia-search:Open Article": false,
+          "obsidian-word-sprint:Activate Word Sprint Leaf": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-advanced-slides:Show Slide Preview": true,
+          "obsidian-day-planner:Timeline": true,
+          "homepage:Open homepage": true,
+          "obsidian-projects:Open projects": true,
+          "dbfolder:Create a new database table": true,
+          "fantasy-content-generator:Fantasy Generators": true,
+          "obsidian-5e-statblocks:Open Creature pane": true,
+          "obsidian-statusbar-pomo:Start pomodoro": true,
+          "workspaces:Manage workspace layouts": false,
+          "breadcrumbs:Breadcrumbs Visualisation": true,
+          "vault-explorer:Open vault explorer": false,
+          "calendarium:Open Calendarium": false
+        }
+      },
+      "active": "74967eea365e69a5",
+      "mtime": "2024-05-17T23:49:19-07:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "00 Technical",
+          "50 Writing Journal"
+        ]
+      }
+    },
+    "ATW": {
+      "main": {
+        "id": "4242371ac6b7798b",
+        "type": "split",
+        "children": [
+          {
+            "id": "d795fbddcf8a223b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "83111da3cd52a84f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00 Inbox/Home.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "5308ccb46cd0611d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "40 Archive/Databases/Books DB.md"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "aa0634bcdfbb04b3",
+        "type": "split",
+        "children": [
+          {
+            "id": "0d1a4685435ba440",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aa089e10a92c9dfb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "014c8da4b8b2418c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "research",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "583134b1bb574857",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "200b779edb372085",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d41bb546a033f37a",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "f16511d7915e4c21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6fb88b9399d02c4a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Agenda.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 339.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "14e29d857f3399ad",
+        "type": "split",
+        "children": [
+          {
+            "id": "f6c27e94f357387e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a17bc3d040649359",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Agenda.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3d94e1438c61ce88",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Agenda.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c4c4a85563d82296",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "eff140d82e434035",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6579eccc7220e2f0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Agenda.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "3517485777213a91",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f625bc281c3a13b0",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "74967eea365e69a5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 315.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "notion-like-tables:Create loom": false,
+          "rpg-manager:RPG Manager": true,
+          "obsidian-wordnet-plugin:WordNet Dictionary": true,
+          "obsidian-leaflet-plugin:Open Leaflet Map": true,
+          "wikipedia-search:Open Article": true,
+          "obsidian-word-sprint:Activate Word Sprint Leaf": true,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "obsidian-advanced-slides:Show Slide Preview": true,
+          "obsidian-day-planner:Timeline": true,
+          "homepage:Open homepage": true,
+          "obsidian-projects:Open projects": true,
+          "dbfolder:Create a new database table": true,
+          "fantasy-content-generator:Fantasy Generators": true,
+          "obsidian-5e-statblocks:Open Creature pane": true,
+          "obsidian-statusbar-pomo:Start pomodoro": true,
+          "workspaces:Manage workspace layouts": false,
+          "breadcrumbs:Breadcrumbs Visualisation": true,
+          "vault-explorer:Open vault explorer": true,
+          "calendarium:Open Calendarium": true,
+          "obsidian-book-search-plugin:Create new book note": false,
+          "janitor:Janitor: scan vault": true,
+          "obsidian-kindle-plugin:Sync your Kindle highlights": true,
+          "omnisearch:Omnisearch": true
+        }
+      },
+      "active": "6579eccc7220e2f0",
+      "mtime": "2024-05-17T23:59:08-07:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "00 Technical",
+          "50 Writing Journal"
+        ]
+      }
+    }
+  },
+  "active": "Writing Dashboard"
+}
