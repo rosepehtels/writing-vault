@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "4242371ac6b7798b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bcbed0e297ad7be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87c4ef219004b60f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "War History.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa0634bcdfbb04b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d1a4685435ba440",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa089e10a92c9dfb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "014c8da4b8b2418c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "To-Do",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "583134b1bb574857",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "200b779edb372085",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "right": {
+    "id": "14e29d857f3399ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6c27e94f357387e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a17bc3d040649359",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "War History.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d94e1438c61ce88",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "War History.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74967eea365e69a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8251dc7471120454",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f625bc281c3a13b0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4c4a85563d82296",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "eff140d82e434035",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "3517485777213a91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cf168ab9489a90d",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-wordnet-plugin:WordNet Dictionary": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "wikipedia-search:Open Article": false,
+      "obsidian-word-sprint:Activate Word Sprint Leaf": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "vault-explorer:Open vault explorer": false,
+      "calendarium:Open Calendarium": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "templater-obsidian:Templater": true,
+      "obsidian-advanced-slides:Show Slide Preview": true,
+      "homepage:Open homepage": true,
+      "obsidian-projects:Open projects": true,
+      "dbfolder:Create a new database table": true,
+      "fantasy-content-generator:Fantasy Generators": true,
+      "obsidian-statusbar-pomo:Start pomodoro": true,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "87c4ef219004b60f",
+  "lastOpenFiles": [
+    "War History.md",
+    "00 Inbox/Home.md",
+    "40 Archive/Databases/Books DB.md",
+    "20 Areas/10 Writing/09 Worldbuilding/30.01 Eldoria/30.01.06 Notes/Cultures.md",
+    "20 Areas/10 Writing/09 Worldbuilding/30.01 Eldoria/30.01.06 Notes/Deities.md",
+    "20 Areas/10 Writing/09 Worldbuilding/30.01 Eldoria/30.01.06 Notes/Creatures.canvas",
+    "20 Areas/10 Writing/09 Worldbuilding/30.01 Eldoria/30.01.06 Notes/Characters.canvas",
+    "20 Areas/10 Writing/09 Worldbuilding/30.01 Eldoria/30.01.06 Notes/Burgs Masterdoc.md",
+    "20 Areas/10 Writing/09 Worldbuilding/30.01 Eldoria/30.01.06 Notes/Alyndra Liarie - Character Questionaire.md",
+    "20 Areas/10 Writing/09 Worldbuilding/30.01 Eldoria/30.01.06 Notes/About Eldoria.md",
+    "20 Areas/10 Writing/09 Worldbuilding/30.01 Eldoria/Index.md",
+    "20 Areas/10 Writing/09 Worldbuilding/30.01 Eldoria/Eldoria Wiki.md",
+    "20 Areas/10 Writing/09 Worldbuilding/30.01 Eldoria/Characters.canvas",
+    "Around the world Homepage.md",
+    "Agenda.md",
+    "Tags",
+    "00 Technical/01 Templates/wb-society-occupation.md",
+    "00 Technical/01 Templates/wb-society-religion.md",
+    "00 Technical/01 Templates/wb-society-lore.md",
+    "00 Technical/01 Templates/wb-society-language.md",
+    "00 Technical/01 Templates/wb-society-industry.md",
+    "00 Technical/01 Templates/wb-society-folklore.md",
+    "00 Technical/01 Templates/wb-society-education.md",
+    "00 Technical/01 Templates/wb-society-economics.md",
+    "00 Technical/01 Templates/WB-Society-customs.md",
+    "00 Technical/01 Templates/wb-society-art.md",
+    "00 Technical/01 Templates/w-narrative-sessionnote.md",
+    "00 Technical/01 Templates/wb-material-weather.md",
+    "00 Technical/01 Templates/wb-material-resource.md",
+    "00 Technical/01 Templates/wb-material-object.md",
+    "40 Archive/Databases",
+    "40 Archive/Dashboards",
+    "Worldbuilding-Obsidian-Template-main/worldbuilding-template/Templates/Society",
+    "Worldbuilding-Obsidian-Template-main/worldbuilding-template/Templates/Narrative",
+    "Worldbuilding-Obsidian-Template-main/worldbuilding-template/Templates/Material",
+    "Worldbuilding-Obsidian-Template-main/worldbuilding-template/Templates/Location",
+    "Worldbuilding-Obsidian-Template-main/worldbuilding-template/Templates/Life",
+    "Worldbuilding-Obsidian-Template-main/worldbuilding-template/Templates/Groups",
+    "Worldbuilding-Obsidian-Template-main/worldbuilding-template/Templates/Events",
+    "Fall of Beowulf/Characters.canvas",
+    "Fall of Beowulf/Locations.canvas",
+    "Fall of Beowulf/Notes/Random/Pasted image 20240209065938.jpg",
+    "Fall of Beowulf/Notes/Random/Pasted image 20240209064459.png",
+    "Fall of Beowulf/Notes/Random/Pasted image 20240209070244.png",
+    "Fall of Beowulf/Notes/Random/Pasted image 20240209070204.png",
+    "Fall of Beowulf/Notes/Random/Pasted image 20240209065042.png",
+    "Fall of Beowulf/Notes/Random/Grendel's Mother-20240209065527376.jpg",
+    "Fall of Beowulf/Notes/Random/Dragon-20240209065659852.jpg",
+    "Fall of Beowulf/Worldbuilding.canvas",
+    "Fall of Beowulf/Creatures.canvas",
+    "NaNoWriMo/Book/Canvas/Overview.canvas",
+    "NaNoWriMo/Book/Canvas/Character Map.canvas",
+    "NewWorld/ElaraSunweaver.png",
+    "NewWorld/LuminaOrbLightSource.png",
+    "NewWorld/ProspersHaven.jpg",
+    "TOS Timeline.canvas"
+  ]
+}
